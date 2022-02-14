@@ -12,3 +12,10 @@
 3. 其他：其餘可以添加進去的新功能<br />
 
 <a href="https://github.com/vincenttuan/2022-SpringSecurity-01-Authenication">段維瀚老師 Spring Security 教學資源</a>
+
+```no-highlight
+預前準備  
+
+創建「src\main\resources\」資料夾，
+接著創建 application.properties檔案。
+```
